@@ -1,0 +1,330 @@
+﻿path,text to play,options,description
+audio/en/rtrc/system/0.wav,0
+audio/en/rtrc/system/1.wav,1
+audio/en/rtrc/system/2.wav,2
+audio/en/rtrc/system/3.wav,3
+audio/en/rtrc/system/4.wav,4
+audio/en/rtrc/system/5.wav,5
+audio/en/rtrc/system/6.wav,6
+audio/en/rtrc/system/7.wav,7
+audio/en/rtrc/system/8.wav,8
+audio/en/rtrc/system/9.wav,9
+audio/en/rtrc/system/10.wav,10
+audio/en/rtrc/system/11.wav,11
+audio/en/rtrc/system/12.wav,12
+audio/en/rtrc/system/13.wav,13
+audio/en/rtrc/system/14.wav,14
+audio/en/rtrc/system/15.wav,15
+audio/en/rtrc/system/16.wav,16
+audio/en/rtrc/system/17.wav,17
+audio/en/rtrc/system/18.wav,18
+audio/en/rtrc/system/19.wav,19
+audio/en/rtrc/system/20.wav,20
+audio/en/rtrc/system/21.wav,21
+audio/en/rtrc/system/22.wav,22
+audio/en/rtrc/system/23.wav,23
+audio/en/rtrc/system/24.wav,24
+audio/en/rtrc/system/25.wav,25
+audio/en/rtrc/system/26.wav,26
+audio/en/rtrc/system/27.wav,27
+audio/en/rtrc/system/28.wav,28
+audio/en/rtrc/system/29.wav,29
+audio/en/rtrc/system/30.wav,30
+audio/en/rtrc/system/31.wav,31
+audio/en/rtrc/system/32.wav,32
+audio/en/rtrc/system/33.wav,33
+audio/en/rtrc/system/34.wav,34
+audio/en/rtrc/system/35.wav,35
+audio/en/rtrc/system/36.wav,36
+audio/en/rtrc/system/37.wav,37
+audio/en/rtrc/system/38.wav,38
+audio/en/rtrc/system/39.wav,39
+audio/en/rtrc/system/40.wav,40
+audio/en/rtrc/system/41.wav,41
+audio/en/rtrc/system/42.wav,42
+audio/en/rtrc/system/43.wav,43
+audio/en/rtrc/system/44.wav,44
+audio/en/rtrc/system/45.wav,45
+audio/en/rtrc/system/46.wav,46
+audio/en/rtrc/system/47.wav,47
+audio/en/rtrc/system/48.wav,48
+audio/en/rtrc/system/49.wav,49
+audio/en/rtrc/system/50.wav,50
+audio/en/rtrc/system/51.wav,51
+audio/en/rtrc/system/52.wav,52
+audio/en/rtrc/system/53.wav,53
+audio/en/rtrc/system/54.wav,54
+audio/en/rtrc/system/55.wav,55
+audio/en/rtrc/system/56.wav,56
+audio/en/rtrc/system/57.wav,57
+audio/en/rtrc/system/58.wav,58
+audio/en/rtrc/system/59.wav,59
+audio/en/rtrc/system/60.wav,60
+audio/en/rtrc/system/61.wav,61
+audio/en/rtrc/system/62.wav,62
+audio/en/rtrc/system/63.wav,63
+audio/en/rtrc/system/64.wav,64
+audio/en/rtrc/system/65.wav,65
+audio/en/rtrc/system/66.wav,66
+audio/en/rtrc/system/67.wav,67
+audio/en/rtrc/system/68.wav,68
+audio/en/rtrc/system/69.wav,69
+audio/en/rtrc/system/70.wav,70
+audio/en/rtrc/system/71.wav,71
+audio/en/rtrc/system/72.wav,72
+audio/en/rtrc/system/73.wav,73
+audio/en/rtrc/system/74.wav,74
+audio/en/rtrc/system/75.wav,75
+audio/en/rtrc/system/76.wav,76
+audio/en/rtrc/system/77.wav,77
+audio/en/rtrc/system/78.wav,78
+audio/en/rtrc/system/79.wav,79
+audio/en/rtrc/system/80.wav,80
+audio/en/rtrc/system/81.wav,81
+audio/en/rtrc/system/82.wav,82
+audio/en/rtrc/system/83.wav,83
+audio/en/rtrc/system/84.wav,84
+audio/en/rtrc/system/85.wav,85
+audio/en/rtrc/system/86.wav,86
+audio/en/rtrc/system/87.wav,87
+audio/en/rtrc/system/88.wav,88
+audio/en/rtrc/system/89.wav,89
+audio/en/rtrc/system/90.wav,90
+audio/en/rtrc/system/91.wav,91
+audio/en/rtrc/system/92.wav,92
+audio/en/rtrc/system/93.wav,93
+audio/en/rtrc/system/94.wav,94
+audio/en/rtrc/system/95.wav,95
+audio/en/rtrc/system/96.wav,96
+audio/en/rtrc/system/97.wav,97
+audio/en/rtrc/system/98.wav,98
+audio/en/rtrc/system/99.wav,99
+audio/en/rtrc/system/100.wav,100
+audio/en/rtrc/system/200.wav,200
+audio/en/rtrc/system/300.wav,300
+audio/en/rtrc/system/400.wav,400
+audio/en/rtrc/system/500.wav,500
+audio/en/rtrc/system/600.wav,600
+audio/en/rtrc/system/700.wav,700
+audio/en/rtrc/system/800.wav,800
+audio/en/rtrc/system/900.wav,900
+audio/en/rtrc/system/mvolt.wav,millivolt
+audio/en/rtrc/system/mvolts.wav,millivolts
+audio/en/rtrc/system/volt.wav,volt
+audio/en/rtrc/system/volts.wav,volts
+audio/en/rtrc/system/mamp.wav,milliamp
+audio/en/rtrc/system/mamps.wav,milliamps
+audio/en/rtrc/system/amp.wav,amp
+audio/en/rtrc/system/amps.wav,amps
+audio/en/rtrc/system/mah.wav,milliamp-hour
+audio/en/rtrc/system/mahs.wav,milliamp-hours
+audio/en/rtrc/system/ah.wav,ampere-hour
+audio/en/rtrc/system/ahs.wav,ampere-hours
+audio/en/rtrc/system/watt.wav,watt
+audio/en/rtrc/system/watts.wav,watts
+audio/en/rtrc/system/mwatt.wav,milliwatt
+audio/en/rtrc/system/mwatts.wav,milliwatts
+audio/en/rtrc/system/cm.wav,centimeter
+audio/en/rtrc/system/cms.wav,centimeters
+audio/en/rtrc/system/meter.wav,meter
+audio/en/rtrc/system/meters.wav,meters
+audio/en/rtrc/system/km.wav,kilometer
+audio/en/rtrc/system/kms.wav,kilometers
+audio/en/rtrc/system/foot.wav,foot
+audio/en/rtrc/system/feet.wav,feet
+audio/en/rtrc/system/mile.wav,mile
+audio/en/rtrc/system/miles.wav,miles
+audio/en/rtrc/system/cmps.wav,centimeter per second
+audio/en/rtrc/system/cmsps.wav,centimeters per second
+audio/en/rtrc/system/meterps.wav,meter per second
+audio/en/rtrc/system/metersps.wav,meters per second
+audio/en/rtrc/system/meterpm.wav,meter per minute
+audio/en/rtrc/system/meterspm.wav,meters per minute
+audio/en/rtrc/system/kph.wav,kilometer per hour
+audio/en/rtrc/system/ksph.wav,kilometers per hour
+audio/en/rtrc/system/footps.wav,foot per second
+audio/en/rtrc/system/feetps.wav,feet per second
+audio/en/rtrc/system/footpm.wav,foot per minute
+audio/en/rtrc/system/feetpm.wav,feet per minute
+audio/en/rtrc/system/mph.wav,mile per hour
+audio/en/rtrc/system/msph.wav,miles per hour
+audio/en/rtrc/system/celsius.wav,degree celsius
+audio/en/rtrc/system/celsiuss.wav,degrees celsius
+audio/en/rtrc/system/fahrenheit.wav,degree fahrenheit
+audio/en/rtrc/system/fahrenheits.wav,degrees fahrenheit
+audio/en/rtrc/system/percent.wav,percent
+audio/en/rtrc/system/percents.wav,percent
+audio/en/rtrc/system/microsecond.wav,microsecond
+audio/en/rtrc/system/microseconds.wav,microseconds
+audio/en/rtrc/system/millisecond.wav,millisecond
+audio/en/rtrc/system/milliseconds.wav,milliseconds
+audio/en/rtrc/system/second.wav,second
+audio/en/rtrc/system/seconds.wav,seconds
+audio/en/rtrc/system/minute.wav,minute
+audio/en/rtrc/system/minutes.wav,minutes
+audio/en/rtrc/system/hour.wav,hour
+audio/en/rtrc/system/hours.wav,hours
+audio/en/rtrc/system/db.wav,db
+audio/en/rtrc/system/dbs.wav,db
+audio/en/rtrc/system/dbm.wav,dbm
+audio/en/rtrc/system/hz.wav,hertz
+audio/en/rtrc/system/mhz.wav,mega hertz
+audio/en/rtrc/system/g.wav,g
+audio/en/rtrc/system/degree.wav,degree
+audio/en/rtrc/system/degrees.wav,degrees
+audio/en/rtrc/system/rad.wav,rad
+audio/en/rtrc/system/ml.wav,milliliter
+audio/en/rtrc/system/mls.wav,milliliters
+audio/en/rtrc/system/mlpm.wav,milliliter per minute
+audio/en/rtrc/system/mlpms.wav,milliliters per minute
+audio/en/rtrc/system/mlpp.wav,milliliter per pulse
+audio/en/rtrc/system/mlpps.wav,milliliters per pulse
+audio/en/rtrc/system/rpm.wav, rotation per minute
+audio/en/rtrc/system/rpms.wav, rotations per minute
+audio/en/rtrc/system/pa.wav, pascal
+audio/en/rtrc/system/pas.wav, pascals
+audio/en/rtrc/system/kpa.wav, kilopascal
+audio/en/rtrc/system/kpas.wav, kilopascals
+audio/en/rtrc/system/mpa.wav, megapascal
+audio/en/rtrc/system/mpas.wav, megapascals
+audio/en/rtrc/system/bar.wav, bar
+audio/en/rtrc/system/bars.wav, bars
+audio/en/rtrc/system/psi.wav, pound per square inch
+audio/en/rtrc/system/psis.wav, pounds per square inch
+audio/en/rtrc/system/minus.wav,minus
+audio/en/rtrc/system/and.wav,and
+audio/en/rtrc/system/thousand.wav,thousand
+audio/en/rtrc/system/thousands.wav,thousands
+audio/en/rtrc/system/point1.wav,point one
+audio/en/rtrc/system/point2.wav,point two
+audio/en/rtrc/system/point3.wav,point three
+audio/en/rtrc/system/point4.wav,point four
+audio/en/rtrc/system/point5.wav,point five
+audio/en/rtrc/system/point6.wav,point six
+audio/en/rtrc/system/point7.wav,point seven
+audio/en/rtrc/system/point8.wav,point eight
+audio/en/rtrc/system/point9.wav,point nine
+audio/en/rtrc/system/hello.wav,Welcome to ethos
+audio/en/rtrc/system/down.wav,down
+audio/en/rtrc/system/middle.wav,middle
+audio/en/rtrc/system/up.wav,up
+audio/en/rtrc/system/trim-center.wav,trim center
+audio/en/rtrc/system/trim-max.wav,max reached
+audio/en/rtrc/system/trim-min.wav,min reached
+audio/en/rtrc/system/no-failsafe.wav,Failsafe not set
+audio/en/rtrc/system/inactivity.wav,Inactivity for long time
+audio/en/rtrc/system/modelfile-version-error.wav,Model file version does not match
+audio/en/rtrc/system/pot-warning.wav,pot warning
+audio/en/rtrc/system/low-battery.wav,Radio battery is low
+audio/en/rtrc/system/no-sound.wav,Radio is in silent mode
+audio/en/rtrc/system/low-rtc-battery.wav,RTC battery is low
+audio/en/rtrc/system/switch-warning.wav,switch warning
+audio/en/rtrc/system/swr-warning.wav,SWR warning
+audio/en/rtrc/system/audio/en/rtrc/system-file-version-error.wav,System file version does not match
+audio/en/rtrc/system/rssi-lost.wav,Telemetry lost
+audio/en/rtrc/system/rssi-recovered.wav,Telemetry recovered
+audio/en/rtrc/system/rssi-critical-warning.wav,RSSI critical warning
+audio/en/rtrc/system/rssi-low-warning.wav,RSSI low warning
+audio/en/rtrc/system/rssi-ext-lost.wav,External module telemetry lost
+audio/en/rtrc/system/rssi-ext-recovered.wav,External module telemetry recovered
+audio/en/rtrc/system/rssi-ext-critical-warning.wav,External module RSSI critical warning
+audio/en/rtrc/system/rssi-ext-low-warning.wav,External module RSSI low warning
+audio/en/rtrc/system/rssi-int-lost.wav,Internal module telemetry lost
+audio/en/rtrc/system/rssi-int-recovered.wav,Internal module telemetry recovered
+audio/en/rtrc/system/rssi-int-critical-warning.wav,Internal module RSSI critical warning
+audio/en/rtrc/system/rssi-int-low-warning.wav,Internal module RSSI low warning
+audio/en/rtrc/system/rssi-int2g4-lost.wav,Internal module 2 giga 4 telemetry lost
+audio/en/rtrc/system/rssi-int2g4-recovered.wav,Internal module 2 giga 4 telemetry recovered
+audio/en/rtrc/system/rssi-int2g4-critical-warning.wav,Internal module 2 giga 4 RSSI critical warning
+audio/en/rtrc/system/rssi-int2g4-low-warning.wav,Internal module 2 giga 4 RSSI low warning
+audio/en/rtrc/system/rssi-int900m-lost.wav,Internal module 900 mega telemetry lost
+audio/en/rtrc/system/rssi-int900m-recovered.wav,Internal module 900 mega telemetry recovered
+audio/en/rtrc/system/rssi-int900m-critical-warning.wav,Internal module 900 mega RSSI critical warning
+audio/en/rtrc/system/rssi-int900m-low-warning.wav,Internal module 900 mega RSSI low warning
+audio/en/rtrc/system/trainer-lost.wav,Trainer lost
+audio/en/rtrc/system/trainer-recovered.wav,Trainer recovered
+audio/en/rtrc/system/no-calibration.wav,The sticks are not calibrated
+audio/en/rtrc/system/throttle-warning.wav,Throttle not idle
+audio/en/rtrc/system/register.wav,Register
+audio/en/rtrc/system/bind.wav,Bind
+audio/en/rtrc/system/range-check.wav,Range check
+audio/en/rtrc/system/rx-on-warning.wav,Receiver is still ON
+audio/en/rtrc/system/sensor-lost.wav,Sensor lost
+audio/en/rtrc/system/sensor-conflict.wav,Sensor conflict
+audio/en/rtrc/system/vfr-low-warning.wav,VFR low warning
+audio/en/rtrc/system/function-switches-warning.wav,function switches warning
+audio/en/rtrc/fm-2.wav,flight mode two
+audio/en/rtrc/fm-3.wav,flight mode three
+audio/en/rtrc/fm-4.wav,flight mode four
+audio/en/rtrc/fm-5.wav,flight mode five
+audio/en/rtrc/fm-6.wav,flight mode six
+audio/en/rtrc/fm-7.wav,flight mode seven
+audio/en/rtrc/fm-8.wav,flight mode eight
+audio/en/rtrc/fm-9.wav,flight mode nine
+audio/en/rtrc/fm-10.wav,flight mode ten
+audio/en/rtrc/fm-power.wav,flight mode power
+audio/en/rtrc/fm-land.wav,flight mode land
+audio/en/rtrc/fm-float.wav,flight mode float
+audio/en/rtrc/fm-speed.wav,flight mode speed
+audio/en/rtrc/fm-fast.wav,flight mode fast
+audio/en/rtrc/fm-normal.wav,flight mode normal
+audio/en/rtrc/fm-cruise.wav,flight mode cruise
+audio/en/rtrc/fm-acro.wav,flight mode acro
+audio/en/rtrc/fm-race.wav,flight mode race
+audio/en/rtrc/fm-launch.wav,flight mode launch
+audio/en/rtrc/fm-ping.wav,flight mode ping
+audio/en/rtrc/fm-thermal.wav,flight mode thermal
+audio/en/rtrc/fm-thermal-left.wav,flight mode thermal left
+audio/en/rtrc/fm-thermal-right.wav,flight mode thermal right
+audio/en/rtrc/fm-stabilize.wav,flight mode stabilize
+audio/en/rtrc/fm-horizon.wav,flight mode horizon
+audio/en/rtrc/fm-angle.wav,flight mode angle
+audio/en/rtrc/fm-idle-1.wav,flight mode idle up 1
+audio/en/rtrc/fm-idle-2.wav,flight mode idle up 2
+audio/en/rtrc/vario-on.wav,vario on
+audio/en/rtrc/vario-off.wav,vario off
+audio/en/rtrc/rate-low.wav,low rate
+audio/en/rtrc/rate-medium.wav,medium rate
+audio/en/rtrc/rate-high.wav,high rate
+audio/en/rtrc/take-off.wav,take off
+audio/en/rtrc/sport.wav,sport
+audio/en/rtrc/pattern.wav,pattern
+audio/en/rtrc/3d.wav,3D
+audio/en/rtrc/landing.wav,landing
+audio/en/rtrc/on.wav,on
+audio/en/rtrc/off.wav,off
+audio/en/rtrc/brakes-on.wav,brakes on
+audio/en/rtrc/brakes-off.wav,brakes off
+audio/en/rtrc/butterfly-on.wav,butterfly on
+audio/en/rtrc/butterfly-off.wav,butterfly off
+audio/en/rtrc/flaps-1.wav,flaps one
+audio/en/rtrc/flpaps-2.wav,flaps two
+audio/en/rtrc/flaps-3.wav,flaps three
+audio/en/rtrc/flaps-4.wav,flaps four
+audio/en/rtrc/flaps-5.wav,flaps five
+audio/en/rtrc/wheel-brakes-on.wav,wheel brakes on
+audio/en/rtrc/wheel-brakes-off.wav,wheel brakes off
+audio/en/rtrc/rth.wav,return to home
+audio/en/rtrc/manual.wav,manual
+audio/en/rtrc/auto.wav,auto
+audio/en/rtrc/osd.wav,OSD
+audio/en/rtrc/turtle-on.wav,turtle mode on
+audio/en/rtrc/turtle-off.wav,turtle mode off
+audio/en/rtrc/flip.wav,flip
+audio/en/rtrc/autorotate.wav,autorotation
+audio/en/rtrc/telemetry.wav,telemetry
+audio/en/rtrc/telemetry-log-on.wav,telemetry logging on
+audio/en/rtrc/telemetry-log-off.wav,telemetry logging off
+audio/en/rtrc/vtx-on.wav,VTX on
+audio/en/rtrc/vtx-off.wav,VTX off
+audio/en/rtrc/start.wav,start
+audio/en/rtrc/stop.wav,stop
+audio/en/rtrc/lights-on.wav,lights on
+audio/en/rtrc/lights-off.wav,lights off
+audio/en/rtrc/throttle-cut.wav,throttle cut
+audio/en/rtrc/throttle-hold.wav,throttle hold
+audio/en/rtrc/osd-on.wav,OSD on
+audio/en/rtrc/osd-off.wav,OSD off
+audio/en/rtrc/timer1-reset.wav,timer 1 reset
+audio/en/rtrc/timer2-reset.wav,timer 2 reset
+audio/en/rtrc/timer3-reset.wav,timer 3 reset

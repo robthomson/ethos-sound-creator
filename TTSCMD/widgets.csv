@@ -1,0 +1,63 @@
+filename,text to play,options,description
+scripts/rf2status/sounds/alerts/lq.wav,Link Quality
+scripts/rf2status/sounds/alerts/fuel.wav,Fuel.
+scripts/rf2status/sounds/alerts/headspeed.wav,Head Speed
+scripts/rf2status/sounds/alerts/voltage.wav,Voltage
+scripts/rf2status/sounds/alerts/current.wav,Current
+scripts/rf2status/sounds/alerts/remaining.wav,Remaining
+scripts/rf2status/sounds/alerts/timer.wav,Timer
+scripts/rf2status/sounds/alerts/esc.wav,E. S. C. Temperature
+scripts/rf2status/sounds/alerts/mcu.wav,M. C. U. Temperature
+scripts/rf2status/sounds/alerts/lowvoltage.wav,Low Voltage
+scripts/rf2status/sounds/alerts/lowfuel.wav,Low Fuel
+scripts/rf2status/sounds/gov/off.wav,Governor - Off
+scripts/rf2status/sounds/gov/idle.wav,Governor - Idle
+scripts/rf2status/sounds/gov/spoolup.wav,Governor - Spoolup
+scripts/rf2status/sounds/gov/recovery.wav,Governor - Recovery
+scripts/rf2status/sounds/gov/active.wav,Governor - Active
+scripts/rf2status/sounds/gov/thr-off.wav,Governor - Throttle Off
+scripts/rf2status/sounds/gov/lost-hs.wav,Governor - Lost Headspeed
+scripts/rf2status/sounds/gov/autorot.wav,Governor - Auto Rotation
+scripts/rf2status/sounds/gov/bailout.wav,Governor - Bailout
+scripts/rf2status/sounds/gov/disabled.wav,Governor - Disabled
+scripts/rf2status/sounds/gov/disarmed.wav,Governor - Disarmed
+scripts/rf2status/sounds/gov/unknown.wav,Governor - Unknown
+scripts/rf2status/sounds/adjfunc/pitch.wav,Pitch
+scripts/rf2status/sounds/adjfunc/roll.wav,Roll
+scripts/rf2status/sounds/adjfunc/yaw.wav,Roll
+scripts/rf2status/sounds/adjfunc/rc.wav,RC
+scripts/rf2status/sounds/adjfunc/rate.wav,Rate
+scripts/rf2status/sounds/adjfunc/p.wav,P
+scripts/rf2status/sounds/adjfunc/i.wav,I
+scripts/rf2status/sounds/adjfunc/d.wav,D
+scripts/rf2status/sounds/adjfunc/f.wav,F
+scripts/rf2status/sounds/adjfunc/o.wav,O
+scripts/rf2status/sounds/adjfunc/gain.wav,Gain
+scripts/rf2status/sounds/adjfunc/cw.wav,CW
+scripts/rf2status/sounds/adjfunc/ccw.wav,CCW
+scripts/rf2status/sounds/adjfunc/cyclic.wav,Cyclic
+scripts/rf2status/sounds/adjfunc/ff.wav,Feed Forward
+scripts/rf2status/sounds/adjfunc/collective.wav,Collective
+scripts/rf2status/sounds/adjfunc/dyn.wav,Dynamic
+scripts/rf2status/sounds/adjfunc/decay.wav,Decay
+scripts/rf2status/sounds/adjfunc/gyro.wav,Gyro
+scripts/rf2status/sounds/adjfunc/cutoff.wav,Cut Off
+scripts/rf2status/sounds/adjfunc/dterm.wav,d term
+scripts/rf2status/sounds/adjfunc/rescue.wav,Rescue
+scripts/rf2status/sounds/adjfunc/climb.wav,Climb
+scripts/rf2status/sounds/adjfunc/collective.wav,Collective
+scripts/rf2status/sounds/adjfunc/hover.wav,Hover
+scripts/rf2status/sounds/adjfunc/alt.wav,Altitude
+scripts/rf2status/sounds/adjfunc/angle.wav,Angle
+scripts/rf2status/sounds/adjfunc/level.wav,Level
+scripts/rf2status/sounds/adjfunc/horizon.wav,horizon
+scripts/rf2status/sounds/adjfunc/acro.wav,Acro
+scripts/rf2status/sounds/adjfunc/gov.wav,Governor
+scripts/rf2status/sounds/adjfunc/crossc.wav,Cross Coupling
+scripts/rf2ethos/sounds/compdis.wav,Compilation - Temporarily Disabled
+scripts/rf2ethos/sounds/demo.wav,Demo Mode - Enabled
+
+
+
+
+
