@@ -61,6 +61,8 @@ scripts/rf2ethos/sounds/saving.wav,Saving
 scripts/rf2ethos/sounds/timeout.wav,Timed out
 scripts/rf2ethos/sounds/connecting.wav,Connecting
 scripts/rf2ethos/sounds/powercycleesc.wav,Please power cycle the speed controller
+scripts/rf2ethos/sounds/soverideen.wav,Servo overide - enabled
+scripts/rf2ethos/sounds/soveridedis.wav,Servo overide - disabled
 
 
 
