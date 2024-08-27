@@ -1,14 +1,15 @@
 filename,text to play,options,description
-scripts/rf2status/sounds/alerts/lq.wav,Link Quality
-scripts/rf2status/sounds/alerts/fuel.wav,Fuel.
-scripts/rf2status/sounds/alerts/headspeed.wav,Head Speed
-scripts/rf2status/sounds/alerts/voltage.wav,Voltage
 scripts/rf2status/sounds/alerts/current.wav,Current
-scripts/rf2status/sounds/alerts/remaining.wav,Remaining
-scripts/rf2status/sounds/alerts/timer.wav,Timer
-scripts/rf2status/sounds/alerts/esc.wav,E. S. C. Temperature
-scripts/rf2status/sounds/alerts/mcu.wav,M. C. U. Temperature
+scripts/rf2status/sounds/alerts/esc.wav,Esc Temperature
+scripts/rf2status/sounds/alerts/mcu.wav,MCU Temperature
+scripts/rf2status/sounds/alerts/fuel.wav,Fuel
+scripts/rf2status/sounds/alerts/headspeed.wav,Head Speed
+scripts/rf2status/sounds/alerts/lowfuel.wav,Low Fuel
 scripts/rf2status/sounds/alerts/lowvoltage.wav,Low Voltage
+scripts/rf2status/sounds/alerts/lq.wav,Link Quality
+scripts/rf2status/sounds/alerts/remaining.wav,remaining
+scripts/rf2status/sounds/alerts/timer.wav,timer
+scripts/rf2status/sounds/alerts/voltage.wav,voltage
 scripts/rf2status/sounds/alerts/lowfuel.wav,Low Fuel
 scripts/rf2status/sounds/gov/off.wav,Governor - Off
 scripts/rf2status/sounds/gov/idle.wav,Governor - Idle
@@ -54,17 +55,32 @@ scripts/rf2status/sounds/adjfunc/horizon.wav,horizon
 scripts/rf2status/sounds/adjfunc/acro.wav,Acro
 scripts/rf2status/sounds/adjfunc/gov.wav,Governor
 scripts/rf2status/sounds/adjfunc/crossc.wav,Cross Coupling
-scripts/rf2ethos/sounds/compdis.wav,Compilation - Temporarily Disabled
-scripts/rf2ethos/sounds/demo.wav,Demo Mode - Enabled
-scripts/rf2ethos/sounds/loading.wav,Loading
-scripts/rf2ethos/sounds/saving.wav,Saving
-scripts/rf2ethos/sounds/timeout.wav,Timed out
-scripts/rf2ethos/sounds/connecting.wav,Connecting
-scripts/rf2ethos/sounds/powercycleesc.wav,Please power cycle the speed controller
-scripts/rf2ethos/sounds/soverideen.wav,Servo overide - enabled
-scripts/rf2ethos/sounds/soveridedis.wav,Servo overide - disabled
-
-
+scripts/rf2status/sounds/events/active.wav,Active
+scripts/rf2status/sounds/events/armed.wav,Armed
+scripts/rf2status/sounds/events/autorot.wav,Auto rotaton
+scripts/rf2status/sounds/events/bailout.wav,Bailout
+scripts/rf2status/sounds/events/disabled.wav,Disabled
+scripts/rf2status/sounds/events/disarmed.wav.Disarmed
+scripts/rf2status/sounds/events/governor.wav,Governor
+scripts/rf2status/sounds/events/idle.wav,Idle
+scripts/rf2status/sounds/events/lost-hs.wav,Lost Headspeed
+scripts/rf2status/sounds/events/off.wav,Off
+scripts/rf2status/sounds/events/recovery.wav,Recovery
+scripts/rf2status/sounds/events/spoolup.wav,Spoolup
+scripts/rf2status/sounds/events/thr-active.wav,Throttle Active
+scripts/rf2status/sounds/events/thr-hold.wav,Throttle Hold
+scripts/rf2status/sounds/events/thr-off.wav,Throttle Off
+scripts/rf2status/sounds/events/unknown.wav,Unknown
+scripts/rf2status/sounds/switches/bbl-off.wav,Black Box Logging - Off
+scripts/rf2status/sounds/switches/bbl-on.wav,Black Box Logging - On
+scripts/rf2status/sounds/switches/idle-h.wav,Idle Speed - High!
+scripts/rf2status/sounds/switches/idle-m.wav,Idle Speed - Medium!
+scripts/rf2status/sounds/switches/idle-l.wav,Idle Speed - Low!
+scripts/rf2status/sounds/switches/rates-h.wav,Rates - High!
+scripts/rf2status/sounds/switches/rates-m.wav,Rates - Medium!
+scripts/rf2status/sounds/switches/rates-l.wav,Rates - Low!
+scripts/rf2status/sounds/switches/rescue-on.wav,Rescue Mode - On!
+scripts/rf2status/sounds/switches/rescue-off.wav,Rescue Mode - Off!
 
 
 

@@ -1,0 +1,11 @@
+filename,text to play,options,description
+scripts/rf2ethos/sounds/compdis.wav,Compilation - Temporarily Disabled
+scripts/rf2ethos/sounds/demo.wav,Demo Mode - Enabled
+scripts/rf2ethos/sounds/loading.wav,Loading
+scripts/rf2ethos/sounds/saving.wav,Saving
+scripts/rf2ethos/sounds/timeout.wav,Timed out
+scripts/rf2ethos/sounds/connecting.wav,Connecting
+scripts/rf2ethos/sounds/connected.wav,Connected
+scripts/rf2ethos/sounds/powercycleesc.wav,Please power cycle the speed controller
+scripts/rf2ethos/sounds/soverideen.wav,Servo overide - enabled
+scripts/rf2ethos/sounds/soveridedis.wav,Servo overide - disabled
