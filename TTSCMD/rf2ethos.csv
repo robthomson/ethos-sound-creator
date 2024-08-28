@@ -9,3 +9,4 @@ scripts/rf2ethos/sounds/connected.wav,Connected
 scripts/rf2ethos/sounds/powercycleesc.wav,Please power cycle the speed controller
 scripts/rf2ethos/sounds/soverideen.wav,Servo overide - enabled
 scripts/rf2ethos/sounds/soveridedis.wav,Servo overide - disabled
+scripts/rf2ethos/sounds/eraseflash.wav,Erasing Data Flash
