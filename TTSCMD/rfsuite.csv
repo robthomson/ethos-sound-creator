@@ -1,0 +1,105 @@
+# app
+
+scripts/rfsuite/app/sounds/compdis.wav,Compilation - Temporarily Disabled
+scripts/rfsuite/app/sounds/demo.wav,Demo Mode - Enabled
+scripts/rfsuite/app/sounds/loading.wav,Loading
+scripts/rfsuite/app/sounds/saving.wav,Saving
+scripts/rfsuite/app/sounds/timeout.wav,Timed out
+scripts/rfsuite/app/sounds/connecting.wav,Connecting
+scripts/rfsuite/app/sounds/connected.wav,Connected
+scripts/rfsuite/app/sounds/powercycleesc.wav,Please power cycle the speed controller
+scripts/rfsuite/app/sounds/soverideen.wav,Servo overide - enabled
+scripts/rfsuite/app/sounds/soveridedis.wav,Servo overide - disabled
+scripts/rfsuite/app/sounds/eraseflash.wav,Erasing Data Flash
+scripts/rfsuite/app/sounds/moverideen.wav,Mixer overide - enabled
+scripts/rfsuite/app/sounds/moveridedis.wav,Mixer overide - disabled
+
+# status
+
+scripts/rfsuite/widgets/status/sounds/alerts/current.wav,Current
+scripts/rfsuite/widgets/status/sounds/alerts/esc.wav,Esc Temperature
+scripts/rfsuite/widgets/status/sounds/alerts/mcu.wav,MCU Temperature
+scripts/rfsuite/widgets/status/sounds/alerts/fuel.wav,Fuel
+scripts/rfsuite/widgets/status/sounds/alerts/headspeed.wav,Head Speed
+scripts/rfsuite/widgets/status/sounds/alerts/lowfuel.wav,Low Fuel
+scripts/rfsuite/widgets/status/sounds/alerts/lowvoltage.wav,Low Voltage
+scripts/rfsuite/widgets/status/sounds/alerts/lq.wav,Link Quality
+scripts/rfsuite/widgets/status/sounds/alerts/remaining.wav,remaining
+scripts/rfsuite/widgets/status/sounds/alerts/timer.wav,timer
+scripts/rfsuite/widgets/status/sounds/alerts/voltage.wav,voltage
+scripts/rfsuite/widgets/status/sounds/alerts/lowfuel.wav,Low Fuel
+scripts/rfsuite/widgets/status/sounds/gov/off.wav,Governor - Off
+scripts/rfsuite/widgets/status/sounds/gov/idle.wav,Governor - Idle
+scripts/rfsuite/widgets/status/sounds/gov/spoolup.wav,Governor - Spoolup
+scripts/rfsuite/widgets/status/sounds/gov/recovery.wav,Governor - Recovery
+scripts/rfsuite/widgets/status/sounds/gov/active.wav,Governor - Active
+scripts/rfsuite/widgets/status/sounds/gov/thr-off.wav,Governor - Throttle Off
+scripts/rfsuite/widgets/status/sounds/gov/lost-hs.wav,Governor - Lost Headspeed
+scripts/rfsuite/widgets/status/sounds/gov/autorot.wav,Governor - Auto Rotation
+scripts/rfsuite/widgets/status/sounds/gov/bailout.wav,Governor - Bailout
+scripts/rfsuite/widgets/status/sounds/gov/disabled.wav,Governor - Disabled
+scripts/rfsuite/widgets/status/sounds/gov/disarmed.wav,Governor - Disarmed
+scripts/rfsuite/widgets/status/sounds/gov/unknown.wav,Governor - Unknown
+scripts/rfsuite/widgets/status/sounds/events/active.wav,Active
+scripts/rfsuite/widgets/status/sounds/events/armed.wav,Armed
+scripts/rfsuite/widgets/status/sounds/events/autorot.wav,Auto rotaton
+scripts/rfsuite/widgets/status/sounds/events/bailout.wav,Bailout
+scripts/rfsuite/widgets/status/sounds/events/disabled.wav,Disabled
+scripts/rfsuite/widgets/status/sounds/events/disarmed.wav.Disarmed
+scripts/rfsuite/widgets/status/sounds/events/governor.wav,Governor
+scripts/rfsuite/widgets/status/sounds/events/idle.wav,Idle
+scripts/rfsuite/widgets/status/sounds/events/lost-hs.wav,Lost Headspeed
+scripts/rfsuite/widgets/status/sounds/events/off.wav,Off
+scripts/rfsuite/widgets/status/sounds/events/recovery.wav,Recovery
+scripts/rfsuite/widgets/status/sounds/events/spoolup.wav,Spoolup
+scripts/rfsuite/widgets/status/sounds/events/thr-active.wav,Throttle Active
+scripts/rfsuite/widgets/status/sounds/events/thr-hold.wav,Throttle Hold
+scripts/rfsuite/widgets/status/sounds/events/thr-off.wav,Throttle Off
+scripts/rfsuite/widgets/status/sounds/events/unknown.wav,Unknown
+scripts/rfsuite/widgets/status/sounds/switches/bbl-off.wav,Black Box Logging - Off
+scripts/rfsuite/widgets/status/sounds/switches/bbl-on.wav,Black Box Logging - On
+scripts/rfsuite/widgets/status/sounds/switches/idle-h.wav,Idle Speed - High!
+scripts/rfsuite/widgets/status/sounds/switches/idle-m.wav,Idle Speed - Medium!
+scripts/rfsuite/widgets/status/sounds/switches/idle-l.wav,Idle Speed - Low!
+scripts/rfsuite/widgets/status/sounds/switches/rates-h.wav,Rates - High!
+scripts/rfsuite/widgets/status/sounds/switches/rates-m.wav,Rates - Medium!
+scripts/rfsuite/widgets/status/sounds/switches/rates-l.wav,Rates - Low!
+scripts/rfsuite/widgets/status/sounds/switches/rescue-on.wav,Rescue Mode - On!
+scripts/rfsuite/widgets/status/sounds/switches/rescue-off.wav,Rescue Mode - Off!
+
+# adjfunctions
+
+scripts/rfsuite/tasks/adjfunctions/sounds/pitch.wav,Pitch
+scripts/rfsuite/tasks/adjfunctions/sounds/roll.wav,Roll
+scripts/rfsuite/tasks/adjfunctions/sounds/yaw.wav,Yaw
+scripts/rfsuite/tasks/adjfunctions/sounds/rc.wav,RC
+scripts/rfsuite/tasks/adjfunctions/sounds/rate.wav,Rate
+scripts/rfsuite/tasks/adjfunctions/sounds/p.wav,P
+scripts/rfsuite/tasks/adjfunctions/sounds/i.wav,I
+scripts/rfsuite/tasks/adjfunctions/sounds/d.wav,D
+scripts/rfsuite/tasks/adjfunctions/sounds/f.wav,F
+scripts/rfsuite/tasks/adjfunctions/sounds/o.wav,O
+scripts/rfsuite/tasks/adjfunctions/sounds/gain.wav,Gain
+scripts/rfsuite/tasks/adjfunctions/sounds/cw.wav,CW
+scripts/rfsuite/tasks/adjfunctions/sounds/ccw.wav,CCW
+scripts/rfsuite/tasks/adjfunctions/sounds/cyclic.wav,Cyclic
+scripts/rfsuite/tasks/adjfunctions/sounds/ff.wav,Feed Forward
+scripts/rfsuite/tasks/adjfunctions/sounds/collective.wav,Collective
+scripts/rfsuite/tasks/adjfunctions/sounds/dyn.wav,Dynamic
+scripts/rfsuite/tasks/adjfunctions/sounds/decay.wav,Decay
+scripts/rfsuite/tasks/adjfunctions/sounds/gyro.wav,Gyro
+scripts/rfsuite/tasks/adjfunctions/sounds/cutoff.wav,Cut Off
+scripts/rfsuite/tasks/adjfunctions/sounds/dterm.wav,d term
+scripts/rfsuite/tasks/adjfunctions/sounds/rescue.wav,Rescue
+scripts/rfsuite/tasks/adjfunctions/sounds/climb.wav,Climb
+scripts/rfsuite/tasks/adjfunctions/sounds/collective.wav,Collective
+scripts/rfsuite/tasks/adjfunctions/sounds/hover.wav,Hover
+scripts/rfsuite/tasks/adjfunctions/sounds/alt.wav,Altitude
+scripts/rfsuite/tasks/adjfunctions/sounds/angle.wav,Angle
+scripts/rfsuite/tasks/adjfunctions/sounds/level.wav,Level
+scripts/rfsuite/tasks/adjfunctions/sounds/horizon.wav,horizon
+scripts/rfsuite/tasks/adjfunctions/sounds/acro.wav,Acro
+scripts/rfsuite/tasks/adjfunctions/sounds/gov.wav,Governor
+scripts/rfsuite/tasks/adjfunctions/sounds/crossc.wav,Cross Coupling
+scripts/rfsuite/tasks/adjfunctions/sounds/acc.wav,Accelerometer
+scripts/rfsuite/tasks/adjfunctions/sounds/trim.wav,Trim
