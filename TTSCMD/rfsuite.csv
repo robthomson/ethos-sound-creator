@@ -1,5 +1,3 @@
-# app
-
 scripts/rfsuite/app/sounds/compdis.wav,Compilation - Temporarily Disabled
 scripts/rfsuite/app/sounds/demo.wav,Demo Mode - Enabled
 scripts/rfsuite/app/sounds/loading.wav,Loading
@@ -13,8 +11,6 @@ scripts/rfsuite/app/sounds/soveridedis.wav,Servo overide - disabled
 scripts/rfsuite/app/sounds/eraseflash.wav,Erasing Data Flash
 scripts/rfsuite/app/sounds/moverideen.wav,Mixer overide - enabled
 scripts/rfsuite/app/sounds/moveridedis.wav,Mixer overide - disabled
-
-# status
 
 scripts/rfsuite/widgets/status/sounds/alerts/current.wav,Current
 scripts/rfsuite/widgets/status/sounds/alerts/esc.wav,Esc Temperature
@@ -45,7 +41,7 @@ scripts/rfsuite/widgets/status/sounds/events/armed.wav,Armed
 scripts/rfsuite/widgets/status/sounds/events/autorot.wav,Auto rotaton
 scripts/rfsuite/widgets/status/sounds/events/bailout.wav,Bailout
 scripts/rfsuite/widgets/status/sounds/events/disabled.wav,Disabled
-scripts/rfsuite/widgets/status/sounds/events/disarmed.wav.Disarmed
+scripts/rfsuite/widgets/status/sounds/events/disarmed.wav,Disarmed
 scripts/rfsuite/widgets/status/sounds/events/governor.wav,Governor
 scripts/rfsuite/widgets/status/sounds/events/idle.wav,Idle
 scripts/rfsuite/widgets/status/sounds/events/lost-hs.wav,Lost Headspeed
@@ -66,8 +62,6 @@ scripts/rfsuite/widgets/status/sounds/switches/rates-m.wav,Rates - Medium!
 scripts/rfsuite/widgets/status/sounds/switches/rates-l.wav,Rates - Low!
 scripts/rfsuite/widgets/status/sounds/switches/rescue-on.wav,Rescue Mode - On!
 scripts/rfsuite/widgets/status/sounds/switches/rescue-off.wav,Rescue Mode - Off!
-
-# adjfunctions
 
 scripts/rfsuite/tasks/adjfunctions/sounds/pitch.wav,Pitch
 scripts/rfsuite/tasks/adjfunctions/sounds/roll.wav,Roll
