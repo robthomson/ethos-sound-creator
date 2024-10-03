@@ -1,4 +1,4 @@
-app,app
+app,text to play
 scripts/rfsuite/app/sounds/compdis.wav,Compilation - Temporarily Disabled
 scripts/rfsuite/app/sounds/demo.wav,Demo Mode - Enabled
 scripts/rfsuite/app/sounds/loading.wav,Loading
@@ -13,7 +13,7 @@ scripts/rfsuite/app/sounds/eraseflash.wav,Erasing Data Flash
 scripts/rfsuite/app/sounds/moverideen.wav,Mixer overide - enabled
 scripts/rfsuite/app/sounds/moveridedis.wav,Mixer overide - disabled
 
-status,status
+status,text to play
 scripts/rfsuite/widgets/status/sounds/alerts/current.wav,Current
 scripts/rfsuite/widgets/status/sounds/alerts/esc.wav,Esc Temperature
 scripts/rfsuite/widgets/status/sounds/alerts/mcu.wav,MCU Temperature
@@ -65,7 +65,7 @@ scripts/rfsuite/widgets/status/sounds/switches/rates-l.wav,Rates - Low!
 scripts/rfsuite/widgets/status/sounds/switches/rescue-on.wav,Rescue Mode - On!
 scripts/rfsuite/widgets/status/sounds/switches/rescue-off.wav,Rescue Mode - Off!
 
-adjfunc,adjfunc
+adjfunc, text to play
 scripts/rfsuite/tasks/adjfunctions/sounds/pitch.wav,Pitch
 scripts/rfsuite/tasks/adjfunctions/sounds/roll.wav,Roll
 scripts/rfsuite/tasks/adjfunctions/sounds/yaw.wav,Yaw
