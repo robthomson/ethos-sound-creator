@@ -45,7 +45,7 @@ scripts/rfsuite/widgets/status/sounds/events/armed.wav,Armed
 scripts/rfsuite/widgets/status/sounds/events/autorot.wav,Auto rotaton
 scripts/rfsuite/widgets/status/sounds/events/bailout.wav,Bailout
 scripts/rfsuite/widgets/status/sounds/events/disabled.wav,Disabled
-scripts/rfsuite/widgets/status/sounds/events/disarmed.wav.Disarmed
+scripts/rfsuite/widgets/status/sounds/events/disarmed.wav,Disarmed
 scripts/rfsuite/widgets/status/sounds/events/governor.wav,Governor
 scripts/rfsuite/widgets/status/sounds/events/idle.wav,Idle
 scripts/rfsuite/widgets/status/sounds/events/lost-hs.wav,Lost Headspeed
