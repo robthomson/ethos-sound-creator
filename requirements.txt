@@ -1,0 +1,4 @@
+customtkinter>=5.2.0
+google-cloud-texttospeech>=2.16.0
+soundfile>=0.12.1
+numpy>=1.24.0

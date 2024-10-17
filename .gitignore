@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyInstaller build output
+build/
+*.spec
+
+# Generated audio output (add your own output dir here if needed)
+output/
+output-frsky-gb/
+output-frsky-usa/
+
+# TTS cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
