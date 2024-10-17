@@ -46,7 +46,9 @@ foreach ($csv_list as $file) {
                 
                                 $text = $data[1];
                                 
-                                        if(trim($filename) != '' && trim($text) != ''){
+                                        if(trim($filename) != '' && preg_match("/\.wav$/i", $filename) && trim($text) != ''){
+                                                
+                                                print($text) . "\n" ;
                                                 
                                                 print $count ." - ".  $filename . "\n";
                                                 flush();
