@@ -70,19 +70,25 @@ foreach ($csv_list as $file) {
                                                 system($cmd0);
                                                 $out = ob_get_clean();
                                                 
-                                                $cmd1 = 'sox -v '.$volume.' tmpfile.wav -b 16 -r 32000  tmpfile2.wav';        
+                                                $cmd1 = 'sox -v '.$volume.' tmpfile.wav -b 16 -r 32000  '. $filename;        
                                                 ob_start();
                                                 system($cmd1);
                                                 $out = ob_get_clean();
 
+                                                /*
                                                 $cmd2 = 'ffmpeg -y -i tmpfile2.wav -af "firequalizer=gain_entry=\'entry(0,20);entry(250,10);entry(1000,10);entry(4000,8);entry(16000,5)\'" ' . $filename;        
                                                 ob_start();
                                                 system($cmd2);
                                                 $out = ob_get_clean();
+                                                */
 
                                                 if(file_exists("tmpfile.wav")){
                                                         unlink("tmpfile.wav");
                                                 }                                                                
+                                                if(file_exists("tmpfile2.wav")){
+                                                        unlink("tmpfile2.wav");
+                                                } 
+
                                                 
                                         }        
 
