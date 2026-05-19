@@ -1,6 +1,6 @@
 # Ethos Sound Creator
 
-A Windows utility for generating custom audio files for FrSky Ethos and Rotorflight flight controller systems using Google Text-to-Speech.
+A Windows utility for generating custom audio files for FrSky Ethos using Google Text-to-Speech.
 
 ![Ethos Sound Creator](screenshots/screenshot1.png)
 
